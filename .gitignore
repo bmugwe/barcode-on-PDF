@@ -3,3 +3,5 @@ barcodespdf/*
 codepdf/*
 old files/*
 pdf/*
+.history
+.history/*
